@@ -363,7 +363,7 @@ const SundaySchoolApp = () => {
     lessonTitle: "The Strength of Covenant – Part 4",
 
     memoryVerse:
-        "According to the word that I covenanted with you when ye came out of Egypt, so my spirit remaineth among you: fear ye not.",
+        "According to the word that I covenanted with you when ye came out of Egypt, so my spirit remaineth among you: fear ye not. - Haggai 2:5",
     memoryVerseRef: "Haggai 2:5",
 
     introScriptures: ["Joshua 9:14-19", "2 Samuel 21:1-9"],
